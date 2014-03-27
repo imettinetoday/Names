@@ -19,6 +19,6 @@ public class Name {
         // Enter Your name
         System.out.println ("Your names are ?"
                 + " = ?");
-       
+        System.out.println("Hello, this is jingixan Huang");
     }
 }
